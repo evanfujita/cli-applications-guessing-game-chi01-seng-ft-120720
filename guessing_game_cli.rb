@@ -24,8 +24,6 @@ def guess(input, number)
   end
 end
 
-
-
 def run_guessing_game
   number = generator
   prompt
